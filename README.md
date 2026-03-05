@@ -16,3 +16,9 @@ handwerk-ki/
 https://raw.githubusercontent.com/schlingson/business-assets/main/handwerk-ki/logo-dark.svg
 https://raw.githubusercontent.com/schlingson/business-assets/main/handwerk-ki/logo-icon.svg
 ```
+
+### PNG-Varianten (für DOCX/Word-Einbettung)
+```
+https://raw.githubusercontent.com/schlingson/business-assets/main/handwerk-ki/logo-dark.png
+https://raw.githubusercontent.com/schlingson/business-assets/main/handwerk-ki/logo-icon.png
+```
