@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 60" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&amp;display=swap');
+    .wort { font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif; font-weight: 900; font-size: 48px; letter-spacing: -0.04em; }
+  </style>
+  <text class="wort" x="0" y="46">
+    <tspan fill="#aaaaaa">handwerk</tspan><tspan fill="#F59E0B">.</tspan><tspan fill="#0a0a0a">ki</tspan>
+  </text>
+</svg>
