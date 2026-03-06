@@ -3,7 +3,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&amp;display=swap');
     .wort { font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif; font-weight: 900; font-size: 48px; letter-spacing: -0.04em; }
   </style>
-  <text class="wort" x="0" y="46">
-    <tspan fill="#aaaaaa">handwerk</tspan><tspan fill="#F59E0B">.</tspan><tspan fill="#0a0a0a">ki</tspan>
-  </text>
+  <text class="wort" fill="#918A85" x="0" y="46">handwerk</text>
+  <circle cx="233" cy="42" r="5" fill="#F59E0B"/>
+  <text class="wort" fill="#1c1917" x="244" y="46">ki</text>
 </svg>
