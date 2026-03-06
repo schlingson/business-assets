@@ -4,6 +4,6 @@
     .wort { font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif; font-weight: 900; font-size: 48px; letter-spacing: -0.04em; }
   </style>
   <text class="wort" fill="#918A85" x="0" y="46">handwerk</text>
-  <circle cx="233" cy="42" r="7" fill="#D97706"/>
-  <text class="wort" fill="#1c1917" x="244" y="46">ki</text>
+  <circle cx="237" cy="42" r="7" fill="#D97706"/>
+  <text class="wort" fill="#1c1917" x="252" y="46">ki</text>
 </svg>

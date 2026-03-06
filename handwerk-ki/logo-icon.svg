@@ -4,6 +4,6 @@
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&amp;display=swap');
     .mark { font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif; font-weight: 900; font-size: 42px; letter-spacing: -0.04em; }
   </style>
-  <circle cx="14" cy="52" r="7" fill="#d97706"/>
-  <text class="mark" fill="#fafaf9" x="22" y="54">ki</text>
+  <circle cx="16" cy="52" r="7" fill="#d97706"/>
+  <text class="mark" fill="#fafaf9" x="28" y="54">ki</text>
 </svg>
