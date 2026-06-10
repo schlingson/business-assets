@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0f0f0f;
+  color: #e5e5e5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Slim, theme-matched scrollbars. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2a2a2a #0f0f0f;
+}
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 6px;
+}
+
+@layer components {
+  .card-surface {
+    @apply bg-card border border-white/5 rounded-xl;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition-colors disabled:opacity-50 disabled:pointer-events-none;
+  }
+  .btn-primary {
+    @apply btn bg-accent text-white hover:bg-blue-500;
+  }
+  .btn-ghost {
+    @apply btn bg-white/5 text-neutral-200 hover:bg-white/10;
+  }
+  .input {
+    @apply w-full rounded-lg bg-[#111] border border-white/10 px-3 py-2 text-sm text-neutral-100 placeholder:text-neutral-500 focus:border-accent focus:outline-none focus:ring-1 focus:ring-accent;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium transition-colors;
+  }
+}
